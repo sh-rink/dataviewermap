@@ -1,0 +1,10 @@
+streamlit
+osmnx
+networkx
+folium
+streamlit-folium
+pytest
+pyproj
+scikit-learn
+pandas
+geopandas
